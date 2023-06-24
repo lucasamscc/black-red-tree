@@ -26,7 +26,6 @@ void popula(int vetor[], int tamanho){
 }
 
 int main() {
-    long int RNcontador;
 
     int v[1000];
     srand(time(NULL));
